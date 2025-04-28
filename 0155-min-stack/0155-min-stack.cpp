@@ -1,3 +1,7 @@
+#include <stack>
+#include <climits>
+using namespace std;
+
 class MinStack {
 public:
     stack<long long> st;  // store long long to avoid overflow
@@ -29,7 +33,7 @@ public:
         if(topVal < mini) {
             mini = 2*mini - topVal;
         }
-        if(st.empty()) mini = LLONG_MAX; // Reset mini if stack becomes empty
+        // if(st.empty()) mini = LLONG_MAX;
     }
     
     int top() {
