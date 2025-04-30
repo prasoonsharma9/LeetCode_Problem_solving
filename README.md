@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
