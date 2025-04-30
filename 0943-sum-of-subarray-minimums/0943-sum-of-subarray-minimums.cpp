@@ -34,8 +34,9 @@ public:
         for(int i=0; i<n; i++){
             long long left = i - PSEE[i];
             long long right = NSE[i] - i;
-            total = (total + (static_cast<long long>(arr[i]) * left % mod * right % mod)) % mod;
+            total = (total + (arr[i] * left % mod * right % mod)) % mod;
         }
-        return static_cast<int>(total); 
+        return total;
     }
 };
+
