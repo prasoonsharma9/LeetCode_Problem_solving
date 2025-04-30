@@ -24,19 +24,18 @@ public:
         return ans;
     }
 
+
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
-        int mod = 1e9 + 7;  
+        int mod = 1e9 + 7;
         long long total = 0;
-        vector<int> NSE = findNSE(arr);
-        vector<int> PSEE = findPSEE(arr);
-
+        vector<int> NSE = findPSEE(arr);
+        vector<int> PSEE = findNSE(arr);
         for(int i=0; i<n; i++){
             long long left = i - PSEE[i];
             long long right = NSE[i] - i;
-            total = (total + (arr[i] * left % mod * right % mod)) % mod;
+            total = (total + (arr[i] * left * right) % mod) % mod;
         }
         return total;
     }
 };
-
