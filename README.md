@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
@@ -114,9 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0937-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
