@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
