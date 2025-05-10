@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
