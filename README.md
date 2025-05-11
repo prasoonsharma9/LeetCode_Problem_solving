@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2048-build-array-from-permutation](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2048-build-array-from-permutation) |
