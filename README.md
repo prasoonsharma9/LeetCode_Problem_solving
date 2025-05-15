@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2227-sum-of-subarray-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
