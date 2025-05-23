@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
