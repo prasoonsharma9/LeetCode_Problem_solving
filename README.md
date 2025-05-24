@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0152-maximum-product-subarray) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
