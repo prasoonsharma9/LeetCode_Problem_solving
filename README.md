@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
