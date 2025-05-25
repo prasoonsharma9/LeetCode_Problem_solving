@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0152-maximum-product-subarray) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
