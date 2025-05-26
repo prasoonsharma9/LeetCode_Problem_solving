@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1534-minimum-number-of-frogs-croaking) |
 ## Linked List
 |  |
 | ------- |
