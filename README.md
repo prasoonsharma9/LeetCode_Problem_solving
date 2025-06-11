@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
