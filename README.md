@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0152-maximum-product-subarray) |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
