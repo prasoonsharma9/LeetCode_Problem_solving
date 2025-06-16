@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
