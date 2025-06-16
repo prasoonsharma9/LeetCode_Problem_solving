@@ -2,9 +2,9 @@ class Solution {
 public:
     void func(int n, int len, vector<string>& ans, string &temp){
         if(len == n){
-    ans.push_back(temp); // accept all valid strings
-    return;
-}
+            ans.push_back(temp); 
+            return;
+        }
 
         if(temp.empty() || temp.back() != '0'){
             temp += '0';
