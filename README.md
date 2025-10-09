@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3321-type-of-triangle) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2048-build-array-from-permutation) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0238-product-of-array-except-self) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Recursion
 |  |
 | ------- |
