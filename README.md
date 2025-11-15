@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3321-type-of-triangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Monotonic Stack
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0328-odd-even-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
