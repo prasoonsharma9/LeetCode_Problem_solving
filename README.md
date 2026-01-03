@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
