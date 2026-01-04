@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
