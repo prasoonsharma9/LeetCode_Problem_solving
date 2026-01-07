@@ -1,26 +1,24 @@
 class Solution {
 public:
-    void powerSet(int idx, vector<int> &ans, vector<vector<int>> &result, vector<int>& candidates, int sum, int target){
-        int n = candidates.size();
+
+    void powerset(int idx, vector<int> &candidates, vector<int> &ans, vector<vector<int>> &result, int target, int n, int sum){
         if(sum == target){
             result.push_back(ans);
             return;
         }
-        if(idx == n || sum > target){
-            return;
-        }
-
+        if(idx == n || sum > target) return;
         ans.push_back(candidates[idx]);
-        powerSet(idx, ans, result, candidates, sum+candidates[idx], target);
-
+        powerset(idx, candidates, ans, result, target, n, sum + candidates[idx]);
         ans.pop_back();
-        powerSet(idx+1, ans, result, candidates, sum, target);
-        return;
+        powerset(idx+1, candidates, ans, result, target, n, sum);
+
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> ans;
+        int n = candidates.size();
+        vector<int>ans;
         vector<vector<int>> result;
-        powerSet(0, ans, result, candidates, 0, target);
+        int idx = 0;
+        powerset(idx, candidates,ans,result, target, n, 0);
         return result;
     }
 };
