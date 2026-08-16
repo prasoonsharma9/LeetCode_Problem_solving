@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
@@ -235,12 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1917-maximum-average-pass-ratio) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -288,11 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -300,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
