@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1917-maximum-average-pass-ratio) |
 ## Counting
