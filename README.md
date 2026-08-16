@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0890-lemonade-change) |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1917-maximum-average-pass-ratio) |
 ## Counting
 |  |
@@ -279,8 +282,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
