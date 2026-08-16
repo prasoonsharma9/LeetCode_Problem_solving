@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/prasoonsharma9/LeetCode_Problem_solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
